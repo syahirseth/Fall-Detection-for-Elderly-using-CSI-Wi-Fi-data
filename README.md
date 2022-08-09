@@ -14,3 +14,6 @@ This project used [ESP CSI Toolkit](https://stevenmhernandez.github.io/ESP32-CSI
 This project used [ESP32 Wi-Fi CSI Python Parser](https://github.com/RikeshMMM/ESP32-CSI-Python-Parser) created by RikeshMMM.
 
 Go to examples -> code -> parse_and_plot_example_csi.ipynb 
+
+### Dataset
+My dataset is confidential, any inquiry can contact me through syahirsethpr@gmail.com
