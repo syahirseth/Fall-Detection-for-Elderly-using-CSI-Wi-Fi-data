@@ -1,4 +1,4 @@
-#Instruction
+## Instruction
 1. Choose and read collected CSI raw data file
 2. Change the name of new amplitude file
 3. run the code
