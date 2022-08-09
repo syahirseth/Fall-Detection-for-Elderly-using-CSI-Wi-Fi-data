@@ -9,7 +9,7 @@ Abstract: In recent years, Channel State Information (CSI)  Wi-Fi data has been 
 This project used [ESP CSI Toolkit](https://stevenmhernandez.github.io/ESP32-CSI-Tool/) created by Hernandez and Bulut to collect CSI raw data. 
 
 
-### Python code to parse CSI raw data using all 166 lines in a graph
+### Python code to display CSI amplitude 166 lines in a graph
 
 This project used [ESP32 Wi-Fi CSI Python Parser](https://github.com/RikeshMMM/ESP32-CSI-Python-Parser) created by RikeshMMM.
 
